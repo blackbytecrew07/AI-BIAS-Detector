@@ -1,3 +1,5 @@
+<img width="1366" height="731" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/b97ef6d0-8ccd-45a3-be0b-b8d98752fe29" />
+
 # ⚖️ AI Bias Detection & Fairness Analyzer
 
 ## 📖 Overview
