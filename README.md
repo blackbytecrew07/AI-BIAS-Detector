@@ -67,3 +67,42 @@ project/
 │── ai_logic.py      # Bias detection logic
 │── requirements.txt
 │── README.md
+
+## ⚙️ How to Use
+
+### 🔹 1. Clone the Repository
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+---
+
+### 🔹 2. Run Backend (Flask)
+cd backend
+pip install -r requirements.txt
+python app.py
+
+Backend will start at:
+http://localhost:5000
+
+---
+
+### 🔹 3. Run Frontend (React)
+cd frontend
+npm install
+npm start
+
+Frontend will start at:
+http://localhost:3000
+
+---
+
+### 🔹 4. Use the App
+- Upload your dataset (CSV file)
+- Select target column and sensitive attribute
+- Click **Analyze**
+- View bias score, fairness rating, and suggestions
+
+---
+
+### 🔹 5. API Endpoint
+POST /analyze
